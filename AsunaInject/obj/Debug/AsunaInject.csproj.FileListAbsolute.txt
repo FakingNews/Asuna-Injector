@@ -1,0 +1,13 @@
+C:\Users\Visua\source\repos\AsunaInject\AsunaInject\bin\Debug\AsunaInject.exe.config
+C:\Users\Visua\source\repos\AsunaInject\AsunaInject\bin\Debug\AsunaInject.exe
+C:\Users\Visua\source\repos\AsunaInject\AsunaInject\bin\Debug\AsunaInject.pdb
+C:\Users\Visua\source\repos\AsunaInject\AsunaInject\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Visua\source\repos\AsunaInject\AsunaInject\obj\Debug\AsunaInject.csprojAssemblyReference.cache
+C:\Users\Visua\source\repos\AsunaInject\AsunaInject\obj\Debug\AsunaInject.Properties.Resources.resources
+C:\Users\Visua\source\repos\AsunaInject\AsunaInject\obj\Debug\AsunaInject.csproj.GenerateResource.cache
+C:\Users\Visua\source\repos\AsunaInject\AsunaInject\obj\Debug\AsunaInject.csproj.CopyComplete
+C:\Users\Visua\source\repos\AsunaInject\AsunaInject\obj\Debug\AsunaInject.exe
+C:\Users\Visua\source\repos\AsunaInject\AsunaInject\obj\Debug\AsunaInject.pdb
+C:\Users\Visua\source\repos\AsunaInject\AsunaInject\obj\Debug\AsunaInject.chtLoader.resources
+C:\Users\Visua\source\repos\AsunaInject\AsunaInject\obj\Debug\AsunaInject.CreditFRM.resources
+C:\Users\Visua\source\repos\AsunaInject\AsunaInject\obj\Debug\AsunaInject.menuFrm.resources
